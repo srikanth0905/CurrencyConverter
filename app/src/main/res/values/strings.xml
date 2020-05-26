@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+
+    <string name="default_conversion_rate">0.00</string>
+    <string name="edit_text_hint">Enter amount to convert</string>
+
+
+    <string name="rupee_symbol">₹</string>
+    <string name="euro_symbol">€</string>
+    <string name="dollar_symbol">$</string>
+    <string name="pound_symbol">£</string>
+    <string name="dirham_symbol">د.إ</string>
+    <string name="Japaneseyen_symbol">¥</string>
+    <string name="bitcoin_symbol">₿</string>
+    <string name="russian_ruble_symbol">₽</string>
+    <string name="canadian_dollar_symbol">CAD$</string>
+    <string name="ethereum_symbol">Ξ</string>
+</resources>
